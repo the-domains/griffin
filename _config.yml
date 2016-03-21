@@ -1,0 +1,14 @@
+layout_spectrum: 0.1935484
+typography_spectrum: 0.125448
+color:
+  saturation: 0.08632404
+  lightness: 0.469534
+  brandStrength: 0.5108368
+  brandColors:
+    - '#0C0B0D'
+    - '#ADA9A2'
+    - '#867966'
+    - '#4B4438'
+    - '#F0FFFF'
+  rhythmicContrast: 0.235155
+name: Griffin
