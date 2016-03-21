@@ -1,3 +1,7 @@
+name: Griffin
+favicon: null
+layout_spectrum: 0.5071685
+typography_spectrum: 0.125448
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.125448
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.08632404
-  brandStrength: 0.5108368
-  rhythmicContrast: 0.235155
   brandColors:
     - '#0C0B0D'
     - '#ADA9A2'
     - '#867966'
     - '#4B4438'
     - '#F0FFFF'
+  brandStrength: 0.5108368
   lightness: 0.469534
-layout_spectrum: 0.5071685
-name: Griffin
+  saturation: 0.1875
+  rhythmicContrast: 0.5
+purpose: []
